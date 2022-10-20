@@ -1,16 +1,4 @@
-# class Shoe
-#   attr_accessor :brand
-#   attr_accessor :properties
-#   def initialize(brand)
-#     @brand=brand
-#   end
-#   def properties=(color, size, material, condition)
-#     @color=color
-#     @size=size
-#     @material=material
-#     @condition=condition
-#   end
-# end
+
 
 class Shoe
 
